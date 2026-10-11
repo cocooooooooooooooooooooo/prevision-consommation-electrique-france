@@ -1,5 +1,5 @@
 # Prévision de la consommation électrique (France métropolitaine)
-
+# ATTENTION : VEUILLEZ DECOMPRESSER LES SYNOP_2023/SYNOP_2024/SYNOP_2025/SYNOP_2026 afin de les avoir en .csv dans votre dossier
 ## Lancer le projet en un clic
 
 | Système | Action |
